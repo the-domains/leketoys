@@ -1,0 +1,28 @@
+name: leketoys
+favicon: null
+layout_spectrum: 0.0988710185047239
+typography_spectrum: 0.7179377912543714
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.23343939054757357
+  lightness: 0.9215773674659431
+  saturation: 0.968142211670056
+  rhythmicContrast: 0.811393427895382
+purpose: []
