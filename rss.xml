@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[leketoys]]></title>
+        <description><![CDATA[leketoys]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 27 Jun 2016 17:19:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Self portraits]]></title>
+            <description><![CDATA[<article><h1>Self portraits</h1><h2>a collection of the face I know best</h2><p>Pentel pocketbrush on bristol board</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80018a54-6918-4ac4-a288-515b31b60dc8.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/80018a54-6918-4ac4-a288-515b31b60dc8.jpg</link>
+            <guid isPermaLink="false">e6558778-38a2-458b-a69c-f56717ee03cb</guid>
+            <pubDate>Mon, 27 Jun 2016 17:19:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
