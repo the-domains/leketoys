@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: leketoys
 opengraph:
   image: null
   type: null
@@ -21,20 +19,22 @@ collections:
 purpose: []
 color:
   saturation: 0.968142211670056
-  brandStrength: 0.506383
+  brandStrength: 0.6191489
   lightness: 0.9215773674659431
   brandColors:
-    - '#BFB9AB'
-    - '#F1EDE4'
-    - '#101012'
-    - '#876D52'
-    - '#C45635'
+    - '#211C18'
+    - '#FBFEF3'
+    - '#857671'
+    - '#A0AAB4'
+    - '#F8A7A8'
   rhythmicContrast: 0.811393427895382
 typography_spectrum: 0.5021276
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 layout_spectrum: 0.9638298
-favicon: null
-name: leketoys
