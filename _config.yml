@@ -1,28 +1,40 @@
-name: leketoys
-favicon: null
-layout_spectrum: 0.0988710185047239
-typography_spectrum: 0.7179377912543714
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.23343939054757357
-  lightness: 0.9215773674659431
-  saturation: 0.968142211670056
-  rhythmicContrast: 0.811393427895382
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.968142211670056
+  brandStrength: 0.506383
+  lightness: 0.9215773674659431
+  brandColors:
+    - '#BFB9AB'
+    - '#F1EDE4'
+    - '#101012'
+    - '#876D52'
+    - '#C45635'
+  rhythmicContrast: 0.811393427895382
+typography_spectrum: 0.5021276
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9638298
+favicon: null
+name: leketoys
