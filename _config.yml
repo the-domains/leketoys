@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: leketoys
 opengraph:
   image: null
   type: null
@@ -12,16 +9,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 1
-  brandStrength: 0.2334393905475736
+  brandStrength: 0.2386172
   lightness: 0.9215774
   brandColors:
     - '#BAB4A6'
@@ -30,11 +27,14 @@ color:
     - '#F2EEE5'
     - '#C2512F'
   rhythmicContrast: 0.8113934
-typography_spectrum: 0.5168634
+typography_spectrum: 0.6096122
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.1922428
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
-name: leketoys
+layout_spectrum: 0.1922428
