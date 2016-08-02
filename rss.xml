@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[leketoys]]></title>
         <description><![CDATA[leketoys]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leketoys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 15:47:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Aug 2016 16:01:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leketoys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Statues]]></title>
+            <description><![CDATA[<article><h1>Statues</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c954699ff4e3ebb6f831915d41f95d7b/croprotate.jpg?cropheight=2448&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa2bda655-1361-4f5e-a43f-a4eef14cf56e.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2bda655-1361-4f5e-a43f-a4eef14cf56e.jpg</link>
+            <guid isPermaLink="false">87e9856f-a3f6-4787-9a9d-7d3886d58869</guid>
+            <pubDate>Tue, 02 Aug 2016 16:01:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Self portraits]]></title>
             <description><![CDATA[<article><h1>Self portraits</h1><h2>a collection of the face I know best</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f35bbd2-d05b-4919-9d4f-992cebbcbf43.jpg"></article>]]></description>
