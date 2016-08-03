@@ -1,16 +1,25 @@
 ---
-author: []
-datePublished: '2016-08-02T15:47:49.049Z'
-title: Self portraits
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/80018a54-6918-4ac4-a288-515b31b60dc8.jpg
-description: ''
-sourcePath: _posts/2016-06-27-self-portraits.md
-dateModified: '2016-06-27T18:11:56.238Z'
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/80018a54-6918-4ac4-a288-515b31b60dc8.jpg
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-08-03T20:30:16.362Z'
+dateModified: '2016-08-03T20:29:51.396Z'
+author: []
+title: Self portraits
+sourcePath: _posts/2016-06-27-self-portraits.md
+via: {}
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 _type: MediaObject
 
 ---
